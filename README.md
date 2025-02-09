@@ -1,2 +1,2 @@
 # p2
-Esta es la practica en la que usando css y html hacemos una pagina web
+Tenemos cuatro paginas web interconectadas con diferentes elementos propios de paginas web formateado con css. 
