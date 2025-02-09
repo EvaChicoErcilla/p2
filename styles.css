@@ -619,4 +619,14 @@ body {
     }
 }
 
+.destacado {
+    font-size: 1.5rem;  /* Tamaño medio-grande */
+    font-weight: bold;  /* Texto en negrita */
+    color: #2c3e50;  /* Azul oscuro elegante */
+    background-color: #f4f4f4;  /* Fondo gris claro para resaltar */
+    padding: 10px 15px;  /* Espaciado interno */
+    border-left: 5px solid #2980b9; /* Línea lateral azul para énfasis */
+    font-family: 'Georgia', serif;  /* Tipografía con un toque formal */
+    display: inline-block;  /* Evita que ocupe toda la línea */
+}
 
